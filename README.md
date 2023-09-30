@@ -1,4 +1,4 @@
-# Potential Customer Yield Calculation with Rule-Based Classification (Navigation)
+# Potential Customer Yield Calculation with Rule-Based Classification (Gezinomi)
 #
 ## Business Problem
 Gezinomi wants to create new level-based sales definitions by using some features of the sales it makes, 
