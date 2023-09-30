@@ -4,7 +4,7 @@
 Gezinomi wants to create new level-based sales definitions by using some features of the sales it makes, 
 create segments according to these new sales definitions, 
 and estimate how much new customers can bring to the company on average based on these segments.
-# For example: It is desired to determine how much a customer who wants to go to an All Inclusive hotel from Antalya during a busy period can earn on average.
+For example: It is desired to determine how much a customer who wants to go to an All Inclusive hotel from Antalya during a busy period can earn on average.
 #
 ## Dataset Story
 Gezinomi_miuul.xlsx data set contains the prices of sales made by Gezinomi company and information about these sales. 
